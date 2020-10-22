@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"/home/amit/Downloads/code_1.45.0-1588868285_amd64/JS_tut/js/1.cpp","tests":[{"id":1603188800600,"input":"1\n5 3\n1 2 1\n2 1 2\n1 2 1\n1 4 1\n2 1 2\n","output":"1 2 1\n2 1 2\n1 4 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amit/Downloads/code_1.45.0-1588868285_amd64/JS_tut/js/1.cpp","group":"local","local":true}
